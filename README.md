@@ -20,4 +20,4 @@ U references listi se sada PeroClassLibrary traži u folderu Bin/Debug.
 
 #Pitanje 6
 Buildanje aplikacije nakon brisanja NodaTime direktorij unutar packages direktorija u solutionu je izvedeno uspiješno. 
-U packages direktoriju se ponovno pojavio NodaTime
+U packages direktoriju se ponovno pojavio NodaTime.
